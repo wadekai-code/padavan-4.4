@@ -47,9 +47,10 @@ on:
         - 'TX1801'
         - 'WR1200JS'
         - 'XY-C1'
+        - 'ZTT-RX6000'
         - 'ZTE-E8820S'
         - 'WE410443-TC'
-        default: 'ZTT-RX6000'
+        default: 'K2P'
       release:
         type: boolean
         description: 'upload to release'
