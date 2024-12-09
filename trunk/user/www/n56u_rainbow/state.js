@@ -1175,12 +1175,12 @@ function show_menu(L1, L2, L3) {
 function show_footer() {
     var $j = jQuery.noConflict();
     var footer_code = '<div align="center" class="bottom-image"></div>\n';
-    footer_code += '';
-    footer_code += '';
-    footer_code += '';
-    footer_code += '';
-    footer_code += '';
-    footer_code += '';
+    footer_code += ' ';
+    footer_code += ' ';
+    footer_code += ' ';
+    footer_code += ' ';
+    footer_code += ' ';
+    footer_code += ' ';
 
     $j("#footer").html(footer_code);
 }
