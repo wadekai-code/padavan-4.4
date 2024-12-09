@@ -743,12 +743,12 @@ function show_menu(L1, L2, L3){
 
 function show_footer(){
 	footer_code = '<div align="center" class="bottom-image"></div>\n';
-	footer_code +='';
-	footer_code +='';
-	footer_code +='';
-	footer_code +='';
-	footer_code +='';
-	footer_code +='';
+	footer_code +=' ';
+	footer_code +=' ';
+	footer_code +=' ';
+	footer_code +=' ';
+	footer_code +=' ';
+	footer_code +=' ';
 
 	$("footer").innerHTML = footer_code;
 
