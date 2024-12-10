@@ -1,7 +1,7 @@
 PROG = lzma
 CXX = g++ -O2
 # -Wall -Werror -Wno-delete-non-virtual-dtor
-CXX_C = gcc -O2 -Wall -Werror
+CXX_C = gcc -O2 -Wall
 
 ifdef SystemDrive
 IS_MINGW = 1
