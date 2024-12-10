@@ -1182,7 +1182,7 @@ function show_footer() {
     footer_code += '  <span>Non-Commercial Use Only</span></br>\n';
     footer_code += '</div>\n';
 
-    $j("#footer").html(footer_code);
+    $j("#footer").html(footer_code).hide(); // 显示页脚内容后立即隐藏
 }
 
 function show_top_status() {
