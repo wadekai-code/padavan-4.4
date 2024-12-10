@@ -1201,7 +1201,6 @@ void main(void) {
 
       <input id="signin" type="submit" value="Sign In">
     </form>
-    <div class="login-footer">Powered by <a href="https://github.com/vb1980" target="blank">vb1980</a></div>
   </div>
 </body>
 
