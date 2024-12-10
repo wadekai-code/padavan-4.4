@@ -34,7 +34,7 @@ struct nvram_pair router_defaults[] = {
 
 	/* Miscellaneous parameters */
 	{ "time_zone", DEF_TIMEZONE },
-	{ "preferred_lang", "CN" },
+	{ "preferred_lang", "EN" },
 	{ "log_float_ui", "0" },		/* WebUI syslog float panel mode */
 	{ "log_ipaddr", "" },			/* syslog recipient IP */
 	{ "log_port", "514" },			/* syslog recipient Port */
