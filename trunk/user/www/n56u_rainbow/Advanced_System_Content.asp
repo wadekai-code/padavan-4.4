@@ -964,7 +964,7 @@
 												<tr id="reboot_schedule_enable_tr">
 												<tr>
 													<th>
-														启用定时重启
+														Enable Reboot Schedule?
 													</th>
 													<td>
 														<input type="checkbox" id="reboot_schedule_enable_fake" <%
@@ -992,35 +992,35 @@
 												</tr>
 												<tr id="reboot_schedule_date_tr">
 													<th>
-														自动重启星期
+														Reboot schedule days:
 													</th>
 													<td>
 														<input type="checkbox" name="reboot_date_x_Sun" class="input"
 															onclick="check_Timefield_checkbox();">
-														日
+														Su
 														<input type="checkbox" name="reboot_date_x_Mon" class="input"
 															onclick="check_Timefield_checkbox();">
-														一
+														Mo
 														<input type="checkbox" name="reboot_date_x_Tue" class="input"
 															onclick="check_Timefield_checkbox();">
-														二
+														Tu
 														<input type="checkbox" name="reboot_date_x_Wed" class="input"
 															onclick="check_Timefield_checkbox();">
-														三
+														We
 														<input type="checkbox" name="reboot_date_x_Thu" class="input"
 															onclick="check_Timefield_checkbox();">
-														四
+														Th
 														<input type="checkbox" name="reboot_date_x_Fri" class="input"
 															onclick="check_Timefield_checkbox();">
-														五
+														Fr
 														<input type="checkbox" name="reboot_date_x_Sat" class="input"
 															onclick="check_Timefield_checkbox();">
-														六
+														Sa
 													</td>
 												</tr>
 												<tr id="reboot_schedule_time_tr">
 													<th>
-														自动重启时间
+														Reboot Schedule Time:
 													</th>
 													<td>
 														<input type="text" maxlength="2" class="input_3_table"
