@@ -2025,4 +2025,14 @@ pppoemwan2=Multi-dial frequency
 pppoemwan1=Intranet IP flow control
 pppoemwan1_1=Export serial number(1 Start)
 pppoemwan0=Disable 443 load balancing（Avoid affecting web browsing, which may affect speed testing）
-
+启用定时重启=Enable Scheduled Reboot
+自动重启日期=Scheduled Reboot Date
+自动重启时间=Scheduled Reboot Time
+远程日志服务器=Remote Log Server
+日=Su
+一=Mo
+二=Tu
+三=We
+四=Th
+五=Fr
+六=Sa
